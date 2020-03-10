@@ -1,4 +1,6 @@
 # Text Mining - Zachary Sherman
+Requirements: NLTK (`$ pip install nltk`) and NLTK corpora (`$ python -m nltk.downloader all`).
+
 First, populate `config.py.template` with the relevant API details, obtainable using a Twitter Developer account, according to the instructions found [here](https://sd2020spring.github.io/assignments/mini-project-3-text-mining.html#data-source-twitter). Rename the file to `config.py`.  
 
 The main script can then be run using `python text_mining.py`.  
